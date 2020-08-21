@@ -1,0 +1,9 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "chilunuo",
+	"model": "chilunuo.moc",
+	"textures": [
+		"textures/texture_00.png"
+	],
+	"physics":"chilunuo.physics3.json"
+}
