@@ -1,8 +1,10 @@
 {
     "models": [
-        "chiluno"
+        "chiluno",
+        "text"
     ],
     "messages": [
-        "来自 東方Project 的 チルノ 酱 ~"
+        "来自 東方Project 的 チルノ 酱 ~",
+        "系統測試的"
     ]
 }
