@@ -1,8 +1,0 @@
-{
-	"type": "Live2D Model Setting",
-	"name": "text",
-	"model": "text.moc",
-	"textures": [
-		"textures/texture_00.png"
-	]
-}

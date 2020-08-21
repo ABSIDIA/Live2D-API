@@ -1,6 +1,6 @@
 # Live2D API
 
-Live2D 看板娘插件 (https://www.fghrsh.net/post/123.html) 上使用的后端 API
+Live2D 看板娘插件 (https://www.xiaolfeng.cn/api/live2d.html) 上使用的后端 API
 
 ### 特性
 
