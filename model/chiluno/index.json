@@ -1,23 +1,8 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "chiluno.moc3",
-		"Textures": [
-			"chiluno.2048/texture_00.png"
-		],
-		"Physics": "chiluno.physics3.json",
-		"DisplayInfo": "chiluno.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
-		},
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": []
-		}
+	"type": "Live2D Model Setting",
+	"name": "chiluno",
+	"model": "chiluno.moc",
+	"textures": [
+		"chiluno.1024/texture_00.png"
 	]
 }
