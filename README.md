@@ -4,12 +4,13 @@
 
 构建过程：[Live2D](https://www.xiaolfeng.cn/1005.html)
 
+Live2D网页前端： [前端构建](https://github.com/XiaoLFeng/live2d-widget)
 * * *
 
 快速一键使用
 
 ```code
-<script src="https://widget.xiaolfeng.top/autoload.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/XiaoLFeng/live2d-widget@latest/autoload.js"></script>
 ```
 
 ## 使用方法
