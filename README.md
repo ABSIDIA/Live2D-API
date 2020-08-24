@@ -1,8 +1,8 @@
 # Live2D后端API
 
-服务器状态监控系统：[筱锋服务器状态监控](https://check.xiaolfeng.xyz/)
+服务器状态监控系统：[筱锋服务器状态监控](https://status.xiaolfeng.top/)
 
-构建过程：[Live2D](/1005.html)
+构建过程：[Live2D](https://www.xiaolfeng.cn/1005.html)
 
 * * *
 
