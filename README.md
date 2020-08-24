@@ -2,7 +2,7 @@
 
 服务器状态监控系统：[筱锋服务器状态监控](https://status.xiaolfeng.top/)
 
-构建过程：[Live2D](https://www.xiaolfeng.cn/1005.html)
+Docs构建文档：[Live2D](https://www.xiaolfeng.cn/doc-live2d.html)
 
 Live2D网页前端： [前端构建](https://github.com/XiaoLFeng/live2d-widget)
 * * *
