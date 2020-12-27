@@ -1,8 +1,0 @@
-{
-	"type": "Live2D Model Setting",
-	"name": "Hanasaki",
-	"model": "Hanasaki.moc",
-	"textures": [
-		"texture/texture_00.png"
-	]
-}
