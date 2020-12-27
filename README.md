@@ -1,6 +1,6 @@
 # Live2D后端API
 
-服务器状态监控系统：[筱锋服务器状态监控](https://status.lolicon.team/)
+服务器状态监控系统：[服务器状态监控](https://status.lolicon.team/)
 
 Docs构建文档：[Live2D](https://blog.2w2.top/doc-api/)
 
